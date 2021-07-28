@@ -1,7 +1,4 @@
 using Eggcellent.Models.Enums;
-{
-
-}
 
 namespace Eggcellent.Models
 {
